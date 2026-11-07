@@ -1,0 +1,38 @@
+{
+  "version": "1.7.0",
+  "distribution": "public-configurable",
+  "tests_passed": 733,
+  "failures": 0,
+  "deployment_performed_by_build": false,
+  "compiled_sha256": "2c12d1ae7474292c95db264164f7a4a49fa8fd323ceb504713174787c354405e",
+  "source_order": [
+    "engine.js",
+    "unload_engine.js",
+    "operations_engine.js",
+    "forecast_engine.js",
+    "loading_portal_core.js",
+    "photo_intake_core.js",
+    "adapter.gs",
+    "photo_adapter.gs",
+    "photo_ui.gs",
+    "table_inventory_core.js",
+    "table_source_reader.gs",
+    "table_inventory_adapter.gs",
+    "table_inventory_ui.gs"
+  ],
+  "source_sha256": {
+    "engine.js": "cea9a96678e3a7d10fb78a3680481577348aec6004bc69319b7b8693fbc6defd",
+    "unload_engine.js": "2dbd7c7a7062db2c620f022377393740a2ef8da9190db5b147459968db35474c",
+    "operations_engine.js": "bef920bfdc3711872e67150500d4d91e34d9793ec44b6de93afeb2be75135fff",
+    "forecast_engine.js": "c93a22e220256ca3830aa487a25dd1c10fd2362b18668d5048c72a43eba2bdaf",
+    "loading_portal_core.js": "77c2d734caaaad5d4ef8f766b2eb2f8ac9a8749da8708146ab3244c152a154fd",
+    "photo_intake_core.js": "98371db5f642523437b855f965a0f4f8cafc8d190ff53f1982af33b6afed5cf1",
+    "adapter.gs": "d5841144bcf8dd008925250146df054ce4f24912ddb4a75750126cc48c61b4dd",
+    "photo_adapter.gs": "8f014942fe94468d934476e8653a99fd013dc4b61c37eb4b60f3e1bfab555c84",
+    "photo_ui.gs": "2390b9bff19e5d8e268841bd34ba89921b465546470a176d24965d7e7314ae05",
+    "table_inventory_core.js": "2794f01677b7d1f0a2f61176877c371d31df2ce0af244e07f4438917f19616bc",
+    "table_source_reader.gs": "aee3c477fd5e891563d29d2219850ce224f9622c35a2ecff44a08b191570f180",
+    "table_inventory_adapter.gs": "fd826779f529c00494b7d2a90d70d32f25a06b49151c84d43ebcc42431e967d5",
+    "table_inventory_ui.gs": "320b0fee5f28cac4d8d837ebd27d708e47050ed375bc820912277c1230d05fc5"
+  }
+}

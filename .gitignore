@@ -1,0 +1,35 @@
+# Local credentials and deployment bindings
+.env
+.env.*
+!.env.example
+.clasprc.json
+.clasp.json
+*.private.json
+*.local.json
+credentials*.json
+secrets*.json
+
+# Internal data, screenshots, receipts, backups and release archives
+tmp/
+outputs/
+upload/
+before-upgrade/
+backups/
+*live_fixture*
+live-acceptance.json
+*.log
+*.zip
+*.rar
+*.7z
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Local dependencies and generated test logs
+node_modules/
+__pycache__/
+*.pyc
+dist/test-results.txt
+.DS_Store
+Thumbs.db
